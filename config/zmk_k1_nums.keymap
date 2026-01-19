@@ -1,0 +1,39 @@
+#include <behaviors.dtsi>
+#include <dt-bindings/zmk/bt.h>
+#include <dt-bindings/zmk/keys.h>
+
+/ {
+    keymap {
+        compatible = "zmk,keymap";
+
+        default_layer {
+            // -------------------------------------
+            // |     1     |     2     |     3     |     4     |     5     |     6     |     7     |     8     |
+            // |     Q     |     W     |     E     |     R     |     T     |     Y     |     U     |     I     |
+            // |     A     |     S     |     D     |     F     |     G     |     H     |     J     |     K     |
+            // |     Z     |     X     |     C     |     V     |     B     |     N     |     M     |     ,     |
+
+            bindings = <
+&kp N0  &kp N2  &kp N3  &kp N4  &kp N5 &kp N6  &kp N7  &kp N8
+
+&kp N1  &kp N2  &kp N3  &kp N4  &kp N5 &kp N6  &kp N7  &kp N8
+
+&kp N2  &kp N2  &kp N3  &kp N4  &kp N5 &kp N6  &kp N7  &kp N8
+
+&kp N3  &kp N2  &kp N3  &kp N4  &kp N5 &kp N6  &kp N7  &kp N8
+
+&kp N4  &kp N2  &kp N3  &kp N4  &kp N5 &kp N6  &kp N7  &kp N8
+
+&kp N5  &kp N2  &kp N3  &kp N4  &kp N5 &kp N6  &kp N7  &kp N8
+
+&kp N6  &kp N2  &kp N3  &kp N4  &kp N5 &kp N6  &kp N7  &kp N8
+
+&kp N7  &kp N2  &kp N3  &kp N4  &kp N5 &kp N6  &kp N7  &kp N8
+
+&kp N8  &kp N2  &kp N3  &kp N4  &kp N5 &kp N6  &kp N7  &kp N8
+
+&kp N9  &kp N2  &kp N3  &kp N4  &kp N5 &kp N6  &kp N7  &kp N8
+            >;
+        };
+    };
+};

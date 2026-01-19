@@ -1,0 +1,6 @@
+if SHIELD_ZMK_K1_NUMS
+
+config ZMK_KEYBOARD_NAME
+    default "zmk_k1_nums"
+
+endif
