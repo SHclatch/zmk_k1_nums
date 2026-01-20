@@ -33,11 +33,11 @@
 
         SYMS_layer {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans            &trans    &trans  &trans  &trans  &kp EQUAL  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LBKT          &kp RBKT          &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp SINGLE_QUOTE  &trans    &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans            &kp BSLH  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans            &trans    &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans            &trans    &trans  &kp DEL  &trans  &kp EQUAL  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LBKT          &kp RBKT          &trans   &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp SINGLE_QUOTE  &trans    &trans  &trans   &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans            &kp BSLH  &trans  &trans   &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans            &trans    &trans  &trans   &trans  &trans
             >;
         };
 
