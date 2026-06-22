@@ -41,7 +41,7 @@
 
         SYMS_layer {
             bindings = <
-            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp DELETE  &trans  &trans  &trans
 
             &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LBKT &kp RBKT &trans  &trans  &trans  &trans  &trans
 
