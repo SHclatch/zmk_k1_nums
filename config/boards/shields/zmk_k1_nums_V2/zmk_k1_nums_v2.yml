@@ -1,6 +1,6 @@
 file_format: "1"
-id: k1_nums
-name: zmk_k1_nums
+id: k1_nums_V2
+name: zmk_k1_nums_v2
 type: shield
 url: https://github.com/SHclatch/zmk_k1_nums
 requires: [xiao_ble]

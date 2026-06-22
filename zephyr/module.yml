@@ -1,4 +1,4 @@
-name: zmk-keyboard-zmk_k1_nums
+name: zmk-keyboard-zmk_k1_nums_v2
 build:
   settings:
     board_root: .

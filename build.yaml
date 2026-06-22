@@ -19,7 +19,7 @@
 #
 include:
  - board: xiao_ble
-   shield: zmk_k1_nums
+   shield: zmk_k1_nums_v2
    snippet: studio-rpc-usb-uart
  - board: xiao_ble
    shield: settings_reset
