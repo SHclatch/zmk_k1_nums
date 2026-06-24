@@ -21,7 +21,7 @@
 
             &kp LSHIFT  &kp Z   &kp X    &kp C     &kp V     &kp B     &kp N    &kp M           &kp COMMA &kp PERIOD &kp SLASH  &kp UP     &kp RSHIFT  &kp KP_N1   &kp KP_N2    &kp KP_N3
 
-            &mo FN      &kp LGUI &kp LALT &kp INT5  &kp SPACE &kp SPACE          &kp INT4        &mo SYMS   &kp LEFT   &kp DOWN   &kp RIGHT   &kp KP_ENTER &kp KP_N0    &kp KP_DOT
+            &mo FN      &kp LGUI &kp LALT &kp INT5  &kp SPACE &kp SPACE          &kp INT4        &mo SYMS   &kp LEFT   &kp DOWN   &kp RIGHT   &kp KP_EQUAL &kp KP_N0    &kp KP_DOT
             >;
         };
 
